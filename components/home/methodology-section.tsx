@@ -85,7 +85,7 @@ export function MethodologySection() {
               transition={{ duration: 0.5, delay: 0.1 }}
             >
               At Carlora, we empower businesses with tailored strategies, data-driven insights, 
-              and scalable solutions to unlock their full potential.
+              and scalable solutions to unlock their full potential. Partner with us to unlock growth, optimize performance, and drive sustainable success through data-driven strategies and innovative solutions.
             </motion.p>
             <motion.div
               initial={{ opacity: 0, y: 20 }}

@@ -122,7 +122,7 @@ export default function Home() {
       <motion.section 
         className="relative min-h-[90vh] flex items-center justify-center bg-cover bg-center"
         style={{ 
-          backgroundImage: 'url("https://images.unsplash.com/photo-1542744173-8e7e53415bb0?auto=format&fit=crop&q=80&w=1920")',
+          backgroundImage: 'url("https://images.unsplash.com/photo-1573164713714-d95e436ab8d6?auto=format&fit=crop&q=80&w=1920")',
           y: springY,
         }}
       >
@@ -177,7 +177,7 @@ export default function Home() {
                 onClick={() => router.push('/book-consultation')}
                 className="bg-white text-black hover:bg-gray-100 group"
               >
-                Book Your Free Strategy Session
+                Get Started
                 <ArrowRight className="ml-2 h-4 w-4 transition-transform group-hover:translate-x-1" />
               </Button>
             </motion.div>
